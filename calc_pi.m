@@ -21,7 +21,10 @@ Notr = oddaljenost <= RR;
 Zunej = oddaljenost > RR;
 scatter(xx(Notr), yy(Notr), 50, 'red', 'filled');
 scatter(xx(Zunej), yy(Zunej), 50, 'yellow', 'x');
-
+title('Naključno generirane točke na krožnici z lokom');
+xlabel('X-os');
+ylabel('Y-os');
+legend('Znotraj krožnice', 'Zunaj krožnice', 'Krožnica');
 
 
 function krog(radij)
