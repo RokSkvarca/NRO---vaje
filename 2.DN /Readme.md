@@ -1,5 +1,5 @@
-#Ime in priimek
+# Ime in priimek
 Rok Skvarča
 
-#Vpisnaštevilka
+# Vpisnaštevilka
 23211147
